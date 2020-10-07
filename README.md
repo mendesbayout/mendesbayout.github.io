@@ -1,5 +1,5 @@
 # TOPI.IO Challenge (Frontend)
-## Most starred reps for javascript (v1.4.1)
+## Most starred reps for javascript (v1.4.1) .
 
 <img src="https://img.icons8.com/bubbles/200/000000/react.png">
 <img src="https://img.icons8.com/dusk/128/000000/salesforce.png"/> Lightning design system (sdls Grid & Col )
